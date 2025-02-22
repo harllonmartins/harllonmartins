@@ -1,21 +1,11 @@
-### E aí? 👋
+# 👋 Hey! I'm Harllon  
 
-Ingressei a alguns meses no estudo de Desenvolvimento Web. Entusiasta de tecnologia e amante dos hardwares e softwares. Gosto de estudar psicologia para entender a mente humana, mas direciono o conhecimento para uso mais pessoal.
+💻 Aspiring **Full Stack Developer** | Currently learning **HTML, CSS, and JavaScript**  
 
-<div align="center">
-  <a href="https://github.com/HarllonSM">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=harllonsm&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harllonsm&layout=compact&langs_count=7&theme=default"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Harllon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Harllon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Harllon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+📍 From **Rio de Janeiro**, currently living in the **interior of Ceará**  
 
-  ##
-  
-<div> 
-  <a href ="mailto:harllonsm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/harllonsm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🚀 My Tech Journey  
+I'm on a mission to become a **Full Stack Developer**. Currently, I'm focusing on **frontend technologies**, and soon I'll be diving into:  
+- ⚛️ **React & Next.js**  
+- 🗄️ **SQL & Databases**  
+- 🌐 And more backend technologies!  
