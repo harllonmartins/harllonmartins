@@ -1,11 +1,24 @@
-# 👋 Hey! I'm Harllon  
+# 👋 Olá! Eu sou o Harllon  
 
-💻 Aspiring **Full Stack Developer** | Currently learning **HTML, CSS, and JavaScript**  
+💻 Aspirante **Desenvolvedor Full Stack**
 
-📍 From **Rio de Janeiro**, currently living in the **Ceará**  
+📍 Nascido no **Rio de Janeiro**, morando atualmente no **Ceará**  
 
-## 🚀 My Tech Journey  
-I'm on a mission to become a **Full Stack Developer**. Currently, I'm focusing on **frontend technologies**, and soon I'll be diving into:  
-- ⚛️ **React & Next.js**  
-- 🗄️ **SQL & Databases**  
-- 🌐 And more backend technologies!  
+## 🚀 Minha Jornada na Tecnologia  
+Estou trilhando o caminho para me tornar um **Desenvolvedor Full Stack**. Meu roadmap inclui:  
+
+🖥️ **Front-end:**  
+- HTML, CSS, JavaScript  
+- Tailwind CSS  
+- React  
+
+🖥️ **Back-end**  
+- Node.js  
+- PostgreSQL  
+- RESTful APIs
+- JWT Auth
+- Redis 
+
+🛠️ **Ferramentas & Versionamento:**  
+- Git & GitHub  
+- NPM  
