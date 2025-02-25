@@ -1,11 +1,11 @@
 # 👋 Olá! Eu sou o Harllon  
 
-💻 Aspirante **Desenvolvedor Full Stack**
+💻 **Full Stack Developer Studant**
 
-📍 Nascido no **Rio de Janeiro**, morando atualmente no **Ceará**  
+📍  Born in Rio de Janeiro, currently living in *Ceará, Brazil*
 
 ## 🚀 Minha Jornada na Tecnologia  
-Estou trilhando o caminho para me tornar um **Desenvolvedor Full Stack**. Meu roadmap inclui:  
+I'm on my way to becoming a Full Stack Developer. Right now, I'm focusing on frontend technologies, and my roadmap includes: 
 
 🖥️ **Front-end:**  
 - HTML, CSS, JavaScript  
@@ -19,6 +19,6 @@ Estou trilhando o caminho para me tornar um **Desenvolvedor Full Stack**. Meu ro
 - JWT Auth
 - Redis 
 
-🛠️ **Ferramentas & Versionamento:**  
+🛠️ **Tools & Version Control:**  
 - Git & GitHub  
-- NPM  
+- NPM
